@@ -1,7 +1,7 @@
 # ProjetoCSS
 Udemy - Treinando HTML e CSS do Básico para relembrar os conceitos!
 ##
-Treinando HTML e CSS do Básico com Positions <hr>
+Treinando HTML e CSS do Básico<hr>
 
 <ul>
 <li>Projeto 1 - CSS</li>
